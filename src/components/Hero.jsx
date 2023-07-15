@@ -47,7 +47,7 @@ const Hero = () => {
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
               Mobile Developer | <br className="sm:block hidden" />
-              UI/UX Design.
+              UI/UX Designer.
             </p>
           </div>
           <div

@@ -108,32 +108,18 @@ const technologies = [
 
 const experiences = [
   {
-    title: 'Front-End Developer',
-    company_name: 'Cover Hunt',
+    title: 'Study Club',
+    company_name: 'Plug-In',
     icon: coverhunt,
     iconBg: '#333333',
-    date: 'Aug 2021 - Feb 2022',
+    date: 'Ags 2020 - Ags 2021',
   },
   {
-    title: 'Mentor (Volunteer)',
-    company_name: 'Microverse',
+    title: 'Bootcamp',
+    company_name: 'Dicoding',
     icon: microverse,
     iconBg: '#333333',
-    date: 'Mar 2022 - May 2022',
-  },
-  {
-    title: 'Junior Software Engineer',
-    company_name: 'Kelhel',
-    icon: kelhel,
-    iconBg: '#333333',
-    date: 'May 2022 - Oct 2022',
-  },
-  {
-    title: 'Full Stack Developer',
-    company_name: 'Diversity Cyber Council',
-    icon: dcc,
-    iconBg: '#333333',
-    date: 'Sep 2022 - Present',
+    date: 'Ags 2022 - Des 2022',
   },
 ];
 
@@ -186,7 +172,7 @@ const projects = [
   {
     id: 'project-3',
     name: 'Siap-Aud',
-    description: 'This is a single-page calculator app built with React',
+    description: 'Projek Aplikasi Android untuk Penilaian Siswa TK',
     tags: [
       {
         name: 'nextjs',
@@ -208,7 +194,7 @@ const projects = [
   {
     id: 'project-4',
     name: 'Wikihealthy',
-    description: `A single-page application that allows users to search for any movie or show's ratings and its details.`,
+    description: `Sebuah Design Mobile app untuk Mengetahui Penyakit Berdasarkan Keluhaa.`,
     tags: [
       {
         name: 'nextjs',
